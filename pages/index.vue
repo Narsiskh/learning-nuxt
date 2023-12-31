@@ -2,9 +2,8 @@
 </script>
 
 <template>
-  <div>
-    <Alert />
-    <profile />
+  <div class="Main">
+    <ProfileHeaderAvatar />
   </div>
 
 </template>

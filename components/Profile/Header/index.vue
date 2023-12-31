@@ -4,7 +4,8 @@
 
 <template>
 <div>
-  <ProfileHeader />
+  Profile Header
+  <ProfileHeaderAvatar />
 </div>
 </template>
 
